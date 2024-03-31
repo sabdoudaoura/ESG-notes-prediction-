@@ -1,0 +1,7 @@
+## Ignore DS Store file (MAc)
+*.DS_Store
+### Ignoring checkpoints
+*.ipynb_checkpoints
+
+## Pycache
+*.pyc
