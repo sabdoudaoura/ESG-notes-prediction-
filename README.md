@@ -20,14 +20,3 @@ Governance (G): This dimension examines how a company is governed, focusing on l
 
 Each company receives a score in these three areas, which are often combined into an overall ESG rating.
 
-Repository Structure
-data/: Contains the dataset used for training and testing the model.
-notebooks/: Jupyter notebooks used for data exploration, model training, and evaluation.
-models/: Saved models and any relevant model artifacts.
-src/: Source code for data processing, feature engineering, and model training.
-shap_explainability/: Scripts and notebooks related to the SHAP analysis for model explainability.
-README.md: This file, providing an overview of the project.
-Getting Started
-Prerequisites
-Python 3.8+
-Required Python packages are listed in requirements.txt.
